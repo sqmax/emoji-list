@@ -1,7 +1,7 @@
 # emoji-list
 emoji list
 
-[![](https://img.shields.io/github/issues/sqmax/emoji-list.svg)](https://github.com/sqmax/emoji-list/issues)  [![](https://img.shields.io/github/forks/sqmax/emoji-list.svg)](https://github.com/sqmax/emoji-list/network) [![](https://img.shields.io/github/stars/sqmax/emoji-list.svg)](https://github.com/caiyongji/emoji-list/stargazers) [![](https://img.shields.io/github/release/sqmax/emoji-list.svg)](https://github.com/caiyongji/emoji-list/releases)       [![jaywcjlove/sb](https://sqmax.github.io/sb/lang/chinese.svg)](README-CN.md)
+[![](https://img.shields.io/github/issues/sqmax/emoji-list.svg)](https://github.com/sqmax/emoji-list/issues)  [![](https://img.shields.io/github/forks/sqmax/emoji-list.svg)](https://github.com/sqmax/emoji-list/network) [![](https://img.shields.io/github/stars/sqmax/emoji-list.svg)](https://github.com/caiyongji/emoji-list/stargazers) [![](https://img.shields.io/github/release/sqmax/emoji-list.svg)](https://github.com/caiyongji/emoji-list/releases)       [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
 
 Table of Contents
 -----------------
